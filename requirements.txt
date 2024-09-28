@@ -3,3 +3,5 @@ openpyxl
 requests
 pandas
 matplotlib
+numpy
+cv2
