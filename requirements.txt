@@ -4,4 +4,4 @@ requests
 pandas
 matplotlib
 numpy
-cv2
+OpenCV
